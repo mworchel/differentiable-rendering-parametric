@@ -1,0 +1,10 @@
+{
+    "input_path": "data/spot_quad.obj",
+    "initial_scale": 1.0,
+    "output_dir": "out/multiview/spot",
+    "lr": 0.05,
+    "large_steps_lambda": 4,
+    "num_iterations": 1200,
+    "subdivision_schedule": [300, 600, 900],
+    "image_loss_weight": 0.5
+}

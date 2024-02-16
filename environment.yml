@@ -1,0 +1,30 @@
+name: drpg
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pytorch=2.1.0
+  - pytorch-cuda=12.1
+  - cudatoolkit
+  - pip:
+    - imageio==2.23.0
+    - imageio-ffmpeg
+    - imageio-freeimage
+    - largesteps==0.2.2
+    - matplotlib==3.8.0
+    - mitsuba==3.5.0
+    - drjit==0.4.4
+    - ninja==1.11.1
+    - numpy==1.26.1
+    - pandas==2.1.2
+    - git+https://github.com/NVlabs/nvdiffrast.git@v0.3.1
+    - git+https://github.com/mworchel/differentiable-shadow-mapping.git@v0.1.1
+    - scipy==1.11.2
+    - tqdm==4.66.1
+    - trimesh==3.23.5
+    - git+https://github.com/mworchel/umbra@v0.0.6
+    - git+https://github.com/idealab-isu/NURBSDiff.git@1493c16

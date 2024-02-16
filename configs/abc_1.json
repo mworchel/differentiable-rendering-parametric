@@ -1,0 +1,5 @@
+{
+    "input_path": "data/abc_1.obj",
+    "initial_scale": 1.0,
+    "output_dir": "out/multiview/abc_1"
+}
