@@ -4,7 +4,7 @@
 
   <div  align="center">
     <a href="https://mworchel.github.io/differentiable-shadow-mapping">
-      <img src="assets/teaser.jpg" alt="Logo" width="70%">
+      <img src="assets/teaser.jpg" alt="Logo" width="90%">
     </a>
   </div>
 
