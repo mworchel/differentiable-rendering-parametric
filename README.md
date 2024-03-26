@@ -1,9 +1,9 @@
 <p align="center">
 
-  <h1 align="center"><a>Differentiable Rendering of Parametric Geometry</a></h1>
+  <h1 align="center"><a href="https://dl.acm.org/doi/10.1145/3618387">Differentiable Rendering of Parametric Geometry</a></h1>
 
   <div  align="center">
-    <a href="https://mworchel.github.io/differentiable-shadow-mapping">
+    <a href="https://dl.acm.org/doi/10.1145/3618387">
       <img src="assets/teaser.jpg" alt="Logo" width="100%">
     </a>
   </div>
